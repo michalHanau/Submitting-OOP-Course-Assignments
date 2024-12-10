@@ -1,0 +1,15 @@
+C:\Users\המחשב שלי\Desktop\מדמח-שנה א\C#\Exercises1\lesson3\bin\Debug\net7.0\lesson3.exe
+C:\Users\המחשב שלי\Desktop\מדמח-שנה א\C#\Exercises1\lesson3\bin\Debug\net7.0\lesson3.deps.json
+C:\Users\המחשב שלי\Desktop\מדמח-שנה א\C#\Exercises1\lesson3\bin\Debug\net7.0\lesson3.runtimeconfig.json
+C:\Users\המחשב שלי\Desktop\מדמח-שנה א\C#\Exercises1\lesson3\bin\Debug\net7.0\lesson3.dll
+C:\Users\המחשב שלי\Desktop\מדמח-שנה א\C#\Exercises1\lesson3\bin\Debug\net7.0\lesson3.pdb
+C:\Users\המחשב שלי\Desktop\מדמח-שנה א\C#\Exercises1\lesson3\obj\Debug\net7.0\lesson3.csproj.AssemblyReference.cache
+C:\Users\המחשב שלי\Desktop\מדמח-שנה א\C#\Exercises1\lesson3\obj\Debug\net7.0\lesson3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\המחשב שלי\Desktop\מדמח-שנה א\C#\Exercises1\lesson3\obj\Debug\net7.0\lesson3.AssemblyInfoInputs.cache
+C:\Users\המחשב שלי\Desktop\מדמח-שנה א\C#\Exercises1\lesson3\obj\Debug\net7.0\lesson3.AssemblyInfo.cs
+C:\Users\המחשב שלי\Desktop\מדמח-שנה א\C#\Exercises1\lesson3\obj\Debug\net7.0\lesson3.csproj.CoreCompileInputs.cache
+C:\Users\המחשב שלי\Desktop\מדמח-שנה א\C#\Exercises1\lesson3\obj\Debug\net7.0\lesson3.dll
+C:\Users\המחשב שלי\Desktop\מדמח-שנה א\C#\Exercises1\lesson3\obj\Debug\net7.0\refint\lesson3.dll
+C:\Users\המחשב שלי\Desktop\מדמח-שנה א\C#\Exercises1\lesson3\obj\Debug\net7.0\lesson3.pdb
+C:\Users\המחשב שלי\Desktop\מדמח-שנה א\C#\Exercises1\lesson3\obj\Debug\net7.0\lesson3.genruntimeconfig.cache
+C:\Users\המחשב שלי\Desktop\מדמח-שנה א\C#\Exercises1\lesson3\obj\Debug\net7.0\ref\lesson3.dll
